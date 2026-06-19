@@ -1,26 +1,26 @@
 [
   {
-    "ad": "AirPods Pro 2",
-    "fiyat": "6.500 TL",
-    "aciklama": "Aktif gürültü engelleme özellikli, uzamsal ses destekli kablosuz kulaklık.",
-    "gorsel": "assets/p1.avif"
+    "ad": "Sony WH-1000XM5",
+    "fiyat": "14.500 TL",
+    "aciklama": "Sektör lideri aktif gürültü engelleme teknolojisi ve 30 saat pil ömrü sunan premium kablosuz kulaklık.",
+    "gorsel": "assets/p1.jpeg"
   },
   {
-    "ad": "MacBook Pro 14\"",
-    "fiyat": "75.000 TL",
-    "aciklama": "M3 çipli, yüksek performanslı bilgisayar. Geliştiriciler için ideal.",
-    "gorsel": "assets/p4.jpeg"
-  },
-  {
-    "ad": "HomePod Mini",
-    "fiyat": "3.200 TL",
-    "aciklama": "Akıllı ev hoparlörü ve asistanı. 360 derece ses deneyimi sunar.",
-    "gorsel": "assets/p3.jpeg"
-  },
-  {
-    "ad": "iPhone 15 Pro",
-    "fiyat": "65.000 TL",
-    "aciklama": "Titanyum kasa ve gelişmiş kamera. A17 Pro çip ile donatılmıştır.",
+    "ad": "DJI Mini 4 Pro",
+    "fiyat": "38.000 TL",
+    "aciklama": "Çok yönlü engel algılama sistemi ve 4K/60fps HDR video çekimi özellikli ultra hafif drone.",
     "gorsel": "assets/p2.jpg"
+  },
+  {
+    "ad": "Dyson Gen5detect",
+    "fiyat": "32.000 TL",
+    "aciklama": "Mikroskobik tozları açığa çıkaran optik ışık teknolojisine sahip, en güçlü ve akıllı kablosuz süpürge.",
+    "gorsel": "assets/p3.jpg"
+  },
+  {
+    "ad": "Galaxy S24 Ultra",
+    "fiyat": "74.000 TL",
+    "aciklama": "Titanyum gövde, entegre S Pen ve geleceğin teknolojisi Galaxy AI yapay zeka özellikleri ile donatılmış amiral gemisi.",
+    "gorsel": "assets/p4.webp"
   }
 ]
