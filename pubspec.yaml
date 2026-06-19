@@ -22,6 +22,6 @@ dev_dependencies:
 flutter:
   uses-material-design: true
 
-  # Resim klasörümüzü sisteme tanıttığımız yer (Hizalamalar çok önemli!)
+  
   assets:
     - assets/
