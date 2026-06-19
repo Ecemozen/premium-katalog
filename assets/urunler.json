@@ -1,0 +1,26 @@
+[
+  {
+    "ad": "AirPods Pro 2",
+    "fiyat": "6.500 TL",
+    "aciklama": "Aktif gürültü engelleme özellikli, uzamsal ses destekli kablosuz kulaklık.",
+    "gorsel": "assets/p1.avif"
+  },
+  {
+    "ad": "MacBook Pro 14\"",
+    "fiyat": "75.000 TL",
+    "aciklama": "M3 çipli, yüksek performanslı bilgisayar. Geliştiriciler için ideal.",
+    "gorsel": "assets/p4.jpeg"
+  },
+  {
+    "ad": "HomePod Mini",
+    "fiyat": "3.200 TL",
+    "aciklama": "Akıllı ev hoparlörü ve asistanı. 360 derece ses deneyimi sunar.",
+    "gorsel": "assets/p3.jpeg"
+  },
+  {
+    "ad": "iPhone 15 Pro",
+    "fiyat": "65.000 TL",
+    "aciklama": "Titanyum kasa ve gelişmiş kamera. A17 Pro çip ile donatılmıştır.",
+    "gorsel": "assets/p2.jpg"
+  }
+]
